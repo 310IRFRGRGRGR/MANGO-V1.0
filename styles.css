@@ -1,0 +1,13 @@
+input{
+    width: 300PX;
+    height: 35px;
+    background-color: aquamarine;
+}
+body{
+    text-align: center;
+}
+button{
+    width: 300px;
+    height: 25px;
+    background-color: blueviolet;
+}
