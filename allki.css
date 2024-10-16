@@ -4,7 +4,13 @@ img{
 }
 body{
     background-color: black;
+    text-align: center;
 }
-h2{
-    background-color: aqua;
+h1{
+    color: aqua;
+    background-color: blue;
+}
+h3{
+    color: chartreuse;
+    background-color: blue;
 }
